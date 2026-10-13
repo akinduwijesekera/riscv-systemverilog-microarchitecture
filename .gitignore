@@ -1,0 +1,3 @@
+﻿# Icarus Verilog build/sim output
+*.vcd
+*.vvp
